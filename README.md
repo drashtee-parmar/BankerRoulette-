@@ -23,3 +23,8 @@ You might need the help of the len() function.
 https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list
 
 Remember that Lists start at index 0!
+
+
+## Resources:
+- [Convert String to List in Python](https://www.askpython.com/python/string/convert-string-to-list-in-python)
+- [Python random Module – Generate Random Numbers/Sequences](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
